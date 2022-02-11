@@ -1,0 +1,47 @@
+.catCard {
+    /* background-color: #F0F2F5; */
+    margin: 0.8rem;
+    padding: 0.3rem;
+    /* width: 180px; */
+    /* height: 180px; */
+    border: 2px solid #A5CBE6;
+    border-radius: 7px;
+    box-shadow: 4px 4px 20px #A5CBE6 ;
+    box-sizing: border-box !important;
+}
+
+.catName {
+    font-size: 15px;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+#exploreBtn {
+    background-color: white;
+    border-radius: 50px;
+    color: #103178;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+#exploreBtn:hover {
+    background-color: #103178 !important;
+    color: white;
+}
+
+@media screen and (max-width: 992px) {
+    .catCard {
+        /* width: 45vw; */
+        /* height: 55vw; */
+        margin: 0.5rem auto;
+        /* height: 115px !important; */
+        /* width: 180px !important; */
+    }
+}
+/* 
+@media screen and (min-width: 993px) {
+    .catCard {
+        margin-right: 0.5rem;
+        margin: 0 auto;
+    }
+} */

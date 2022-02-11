@@ -1,0 +1,17 @@
+.bannerBox {
+    background-image: url("../../assets/banner.jpeg");
+    background-repeat: no-repeat;
+    margin: 1rem 1.2rem;
+    /* background-size: 500px; */
+    height: 300px;
+}
+
+.bannerBox .roundBtn {
+    width: 90px;
+    background-color: #103178;
+    border-radius: 30px;
+}
+
+.bannerBox .roundBtn:hover {
+    background-color: #DB0A0A;
+}

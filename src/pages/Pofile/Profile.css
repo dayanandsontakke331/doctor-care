@@ -1,0 +1,12 @@
+/* .profileBox {
+    background-color: white;
+    border: 2px dashed black;
+} */
+
+.profileBox fieldset {
+    margin: 0.5rem 1rem !important;
+}
+
+.profileBox fieldset div {
+    margin: 10px;
+}

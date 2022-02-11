@@ -1,0 +1,18 @@
+.editProfileBox {
+    border: 2px dashed black;
+}
+
+.editProfileBox > div {
+    /* background-color: green; */
+    margin: 7px;
+}
+
+.editProfileBox > div > b {
+    color:  #103178;
+}
+
+.editProfileBox > div > span > input, .editProfileBox textarea {
+    border-radius: 30px;
+    background-color: #F0F2F5;
+    margin-top: 4px;
+}

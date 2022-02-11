@@ -1,0 +1,32 @@
+.subCatCard {
+    background-color: #F0F2F5;
+    margin: 2px;
+    padding: 0.5rem 0;
+}
+
+/* .subCatCard input, .subCatCard textarea, .subCatCard select {
+    background-color: #F0F2F5;
+    border-radius: 30px;
+} */
+
+.subCatName {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    /* text-align: right; */
+}
+
+#exploreBtn {
+    background-color: white;
+    border-radius: 50px;
+    color: #103178;
+    font-weight: 500;
+    font-size: 15px;
+    /* width: 5rem; */
+    float: right;
+}
+
+#exploreBtn:hover {
+    background-color: #103178 !important;
+    color: white;
+}

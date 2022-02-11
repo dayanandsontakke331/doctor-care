@@ -1,0 +1,14 @@
+.contactDetails {
+    padding: 0.2rem 4rem;
+}
+
+.contactDetails > h4, .contactDetails > h5 {
+    color: #0E3178;
+    font-weight: bold;
+    padding-top: 1rem;
+}
+
+.contactDetails > h6 {
+    color: #9BABCD;
+    /* font-weight: bold; */
+}

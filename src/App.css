@@ -1,0 +1,20 @@
+.roundBtn {
+  min-width: 100px;
+  background-color: #103178 !important;
+  border-radius: 30px !important;
+}
+
+.roundBtn:hover {
+  background-color: #DB0A0A;
+}
+
+/* .centerBtn {
+    width: auto;
+    background-color: red;
+} */
+
+@media screen and (max-width: 992px) {
+  .App {
+    margin-bottom: 4rem !important;
+  }
+}

@@ -1,0 +1,28 @@
+/* .headerContainer {
+    border-bottom: 1px solid lightgrey;
+} */
+
+#searchBar {
+    padding: 15px;
+    background-color: #F0F2F5;
+    border-radius: 2rem;
+    font-size: 18px;
+    max-width: 520px;
+}
+
+#searchBar::placeholder {
+    color: #5B6C8F;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.profileIcon {
+    cursor: pointer;
+}
+
+/* mobile screens */
+@media only screen and (max-width: 998px){
+    #searchBar{
+        display: none;
+    }
+}

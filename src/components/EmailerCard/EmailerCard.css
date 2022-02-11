@@ -1,0 +1,8 @@
+.emailerIcons {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.emailerIcons:hover {
+    color: brown;
+}
